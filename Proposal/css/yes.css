@@ -1,0 +1,18 @@
+.kilig img {
+    width: 200px;
+}
+
+.kilig {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 3em;
+}
+div.saba{
+    white-space: nowrap;
+    width: 200px;
+    border: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
